@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 *.iml
 .gradle
 /local.properties
@@ -11,6 +12,8 @@
 =======
 =======
 >>>>>>> 2591d5fba5cf57b71d370b36ebf221aca79cc375
+=======
+>>>>>>> 3abb01c31c4ba6210e2a4bc90d7af5d419ef55c0
 # Built application files
 *.apk
 *.ap_
@@ -67,6 +70,9 @@ freeline.py
 freeline/
 freeline_project_description.json
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 3292b24e796930f7796dfabb43c0294f4d48ed03
 =======
 >>>>>>> 2591d5fba5cf57b71d370b36ebf221aca79cc375
+=======
+>>>>>>> 3abb01c31c4ba6210e2a4bc90d7af5d419ef55c0
